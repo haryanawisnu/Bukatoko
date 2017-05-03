@@ -1,0 +1,29 @@
+{
+  "name": "bukatoko",
+  "version": "1.0.0",
+  "description": "Website Ecommerce Bukatoko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haryanawisnu/Bukatoko.git"
+  },
+  "keywords": [
+    "node",
+    "mongoose",
+    "vue",
+    "axios"
+  ],
+  "author": "haryana wisnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haryanawisnu/Bukatoko/issues"
+  },
+  "homepage": "https://github.com/haryanawisnu/Bukatoko#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  }
+}
