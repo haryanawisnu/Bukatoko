@@ -40,3 +40,8 @@
   border-radius: 5px;
   border-color: #d8d8d8;
 }
+
+.listImg {
+  height: 180px;
+  width: 400px;
+}

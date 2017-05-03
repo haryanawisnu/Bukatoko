@@ -32,12 +32,9 @@
       },
       methods: {
         login: function() {
-          let self = this;
-          console.log(self.username);
-          console.log(self.password);
           axios.post('http://localhost:3000/signin', {
-              username: self.username,
-              password: self.password
+              username: app.username,
+              password: app.password
             })
             .then(function(response) {
               console.log(response.data.token);
