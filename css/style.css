@@ -1,0 +1,42 @@
+.mrgR {
+  margin-right: 30px;
+}
+
+.mrgT {
+  margin-top: 10px;
+}
+
+.mrgTL {
+  margin-top: 80px;
+}
+
+.cnav {
+  border: 1px solid;
+  border-radius: 3px;
+  border-color: #d8d8d8;
+}
+
+.list {
+  background-color: #f9f9f9;
+}
+
+.br1 {
+  border: 1px solid;
+  border-radius: 3px;
+  border-color: #d8d8d8;
+}
+
+.bg-4 {
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
+
+.chartImg {
+  height: 300px;
+  width: 400px;
+  position: relative;
+  margin-left: 150px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: #d8d8d8;
+}

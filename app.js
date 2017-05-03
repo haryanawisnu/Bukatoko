@@ -5,7 +5,7 @@ var bodyParser = require('body-parser');
 var usersControllers = require('./controllers/users');
 var passport = require('passport');
 var mongoose = require('mongoose');
-// var itemsControllers = require('./controllers/items');
+var itemsControllers = require('./controllers/items');
 // var transactionsControllers = require('./controllers/transactions');
 
 //Mongoose
